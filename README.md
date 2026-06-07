@@ -1,4 +1,4 @@
-# Database — Final Project
+# Database Management Systems — Final Project
 
 A college database project covering database design, SQL querying, and data management.
 
@@ -27,4 +27,4 @@ unzip finaldatabase.zip
 
 ## Course
 
-Database — College Final Project
+Database Management Systems — College Final Project
